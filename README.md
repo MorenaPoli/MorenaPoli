@@ -1,15 +1,9 @@
-# Hi there, I'm Morena Poli! 👋
+## Morena Poli // Software Engineering (beta) wip
 
-👩‍💻 A budding software engineering student delving into the world of code.
+⚙️ Backend apprentice with big dreams and small stack traces.
 
-🌐 Enthusiastic about web development, databases, and backend systems.
+🛠️ Open to collaborating on exciting software projects and open-source initiatives.
 
-🌱 Currently diving deeper into full-stack development and refining backend architectures.
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/morenapoli/)
 
-💡 Exploring the challenging yet rewarding realms of data structures and algorithms.
-
-🤝 Open to collaborating on exciting software projects and open-source initiatives.
-
-📫 Let's connect! [LinkedIn][(https://www.linkedin.com/in/morenapoli/)] 
-
-Excited to learn, grow, and contribute in the ever-evolving tech landscape! 🚀
+> program terminated unexpectedly
